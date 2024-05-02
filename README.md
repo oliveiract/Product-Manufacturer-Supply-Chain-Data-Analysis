@@ -142,7 +142,7 @@ Depois de carregar os conjuntos de dados, dedicamos tempo para compreender o sig
   - Conforme mencionado anteriormente, vamos analisar as métricas em relação à segmentação por cidade e por cliente, com foco na comparação das metas determinadas de OTIF.
 
   <div align="center">
-  <img src="https://imgur.com/Hl732WH.png" width="90%">
+  <img src="https://imgur.com/USiWUdh.png" width="90%">
   </div>
 
   <br>
