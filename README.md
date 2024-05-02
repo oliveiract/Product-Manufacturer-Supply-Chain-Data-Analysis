@@ -171,7 +171,7 @@ Composta por 3 etapas (Análise Univariada, Bivariada e Multivariada), conseguim
   <br>
 
 
-- Analisado o indicador On Time & In Full, observa-se que durante o período de 01 de março de 2022 a 31 de julho de 2022, apenas 47,95% dos pedidos dos clientes foram entregues no prazo e em sua totalidade.
+- Analisado o indicador On Time & In Full, observa-se que durante o período de 01 de março de 2022 a 31 de julho de 2022, apenas 48% dos pedidos dos clientes foram entregues no prazo e em sua totalidade.
   <br>
 
     <div align="center">
@@ -196,4 +196,3 @@ Composta por 3 etapas (Análise Univariada, Bivariada e Multivariada), conseguim
 
 - o analisar a variável "Category", observamos uma maior concentração de pedidos de produtos lácteos (categoria "dairy")
 
-  
