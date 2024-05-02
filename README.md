@@ -194,5 +194,6 @@ Composta por 3 etapas (Análise Univariada, Bivariada e Multivariada), conseguim
 
 -  Quanto às variáveis "Product Name" e "City", os resultados mostram pouca diferença em geral.
 
-- o analisar a variável "Category", observamos uma maior concentração de pedidos de produtos lácteos (categoria "dairy")
+- Ao analisar a variável "Category", observamos uma maior concentração de pedidos de produtos lácteos (categoria "dairy").
 
+  
