@@ -119,3 +119,50 @@ Os pedidos dos clientes serão avaliadas diariamente com base no nível de servi
 
 - Apresentar a análise para o diretor de vendas.
 
+# 4. Processo
+
+## 4.1. Etapa 1 - Estatística Descritiva
+
+Depois de carregar os conjuntos de dados, dedicamos tempo para compreender o significado de cada atributo e para limpar e transformar os dados conforme necessário. Exploramos os dados por meio da análise estatística descritiva, permitindo-nos examinar tanto as variáveis numéricas quanto as categóricas. Durante essa etapa, adquirimos conhecimento sobre a operação, bem como alguns insights de negócios.
+
+- ### Atributos Númericos:
+
+
+  <style>
+							img {
+								display: block;
+								margin: 0 auto;
+							}
+						</style>
+
+  <img src="https://imgur.com/TlLlIXN.png" width="90%"/>
+
+  <br>
+
+  - Para a empresa FastProduce, a entrega dos pedidos dos clientes dentro do prazo acordado parece ser uma prioridade, pois a métrica de On Time Target % apresenta valores mais elevados em comparação com a métrica In Full Target %. A métrica On Time Target % varia de um mínimo de 75% a um máximo de 92%, enquanto a métrica In Full Target % varia de um mínimo de 65% a um máximo de 82%.
+
+  - Há um pedido registrado de 20 produtos, mas apenas 16 foram entregues. No entanto, em outro caso, um pedido de 500 produtos foi entregue integralmente.
+
+- ### Atributos Categóricos:
+
+  - Conforme mencionado anteriormente, vamos analisar as métricas em relação à segmentação por cidade e por cliente, com foco na comparação das metas determinadas de OTIF.
+ 
+  <style>
+							img {
+								display: block;
+								margin: 0 auto;
+							}
+						</style>
+
+  <img src="https://imgur.com/Hl732WH.png" width="90%"/>
+
+  <br>
+
+    - **Distribuição OTIF% Cidade**
+
+      Os dados mostram que Surat demonstra um desempenho mais forte, com taxas de entrega dentro do prazo e completas consistentemente superiores em comparação com Vadodara.  No entanto, é importante notar que todas as cidades enfrentam metas consideradas baixas, uma vez que atingir apenas 51% já é considerado baixo, e mesmo alcançando 75% pode ser visto como um padrão baixo para o máximo. Essas metas sugerem oportunidades para melhorias adicionais na eficiência das entregas em todas as cidades.
+
+
+    - **Distribuição OTIF% Clientes**
+
+       As análises indicam que as empresas Chipter Stores, Viveks Stores e Expert Mart tiveram metas OTIF mais elevadas, todas com valores mínimos próximos a 70%. Em contrapartida, empresas como Lotus Mart, Coolblue e Acclaimed Stores tiveram metas inferiores, não atingindo sequer 65% da porcentagem da meta OTIF.
