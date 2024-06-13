@@ -169,31 +169,57 @@ Composta por 3 etapas (Análise Univariada, Bivariada e Multivariada), conseguim
     <img src="https://imgur.com/azYHM0k.png" width="60%">
   </div>  
   <br>
-
-
-- Analisado o indicador On Time & In Full, observa-se que durante o período de 01 de março de 2022 a 31 de julho de 2022, apenas 48% dos pedidos dos clientes foram entregues no prazo e em sua totalidade.
+  
+  Analisado o indicador On Time & In Full, observa-se que durante o período de 01 de março de 2022 a 31 de julho de 2022, apenas 48% dos pedidos dos clientes foram entregues no prazo e em sua totalidade.
   <br>
+
+
+- #### **Variáveis Numéricas:**
 
     <div align="center">
     <img src="https://imgur.com/l6Fo8Mj.png" width="60%">
   </div>  
   <br>
 
-- Houve uma maior concentração de pedidos com quantidades entre 50 e 100.
+  - Houve uma maior concentração de pedidos com quantidades entre 50 e 100.
 
-- Quando analisados separadamente, os indicadores "In Full" e "On Time" demonstraram um bom desempenho. No entanto, ao serem avaliados em conjunto, através do indicador "On Time In Full", percebe-se que muitos pedidos não foram entregues dentro do prazo e de forma completa.
+  - Quando analisados separadamente, os indicadores "In Full" e "On Time" demonstraram um bom desempenho. No entanto, ao serem avaliados em conjunto, através do indicador "On Time In Full", percebe-se que muitos pedidos não foram entregues dentro do prazo e de forma completa.
 
-- Conforme mencionado anteriormente, as metas estabelecidas para pedidos entregues dentro do prazo são mais elevadas do que aquelas para pedidos que devem ser entregues integralmente. Observa-se uma concentração de pedidos com metas OTIF de aproximadamente 69%.
+  - Conforme mencionado anteriormente, as metas estabelecidas para pedidos entregues dentro do prazo são mais elevadas do que aquelas para pedidos que devem ser entregues integralmente. Observa-se uma concentração de pedidos com metas OTIF de aproximadamente 69%.
+
+- #### **Variáveis Categóricas**
 
   <div align="center">
     <img src="https://imgur.com/9j8arop.png" width="60%">
   </div>  
   <br>
 
-- Ao analisar a variável "Customer Name", nota-se que 5 dos 15 clientes são particularmente assíduos na solicitação de produtos da empresa Fast Produce.
+  - Ao analisar a variável "Customer Name", observa-se que 3 dos 15 clientes estão enfrentando problemas com seus pedidos, os quais chegaram fora do prazo, estavam incompletos, ou ambos os casos.
 
--  Quanto às variáveis "Product Name" e "City", os resultados mostram pouca diferença em geral.
+  - Quanto à variável "City", os resultados mostram pouca diferença em geral, porém é digno de nota que a cidade de Vadodara, com uma incidência de 18,78%, apresentou uma proporção significativa de produtos que chegaram fora do prazo, estavam incompletos, ou ambos os casos.
 
-- Ao analisar a variável "Category", observamos uma maior concentração de pedidos de produtos lácteos (categoria "dairy").
+  - Na variável "Product Name", observa-se que não há uma grande disparidade em termos de entrega no prazo e integridade dos pedidos.
 
-  
+  - Ao analisar a variável "Category", observamos uma maior concentração de pedidos de produtos lácteos (categoria "dairy") em comparação com bebidas e alimentos (beverage e food). Dos pedidos relacionados a produtos lácteos, que correspondem a 66,72% do total de pedidos, constatou-se que 34,81% não foram entregues dentro do prazo, ou não foram entregues na sua totalidade, ou ambos, enquanto 31,91% foram entregues conforme o esperado.
+
+- ### ***Análise Bivariada***:
+
+  Hipóteses foram formuladas para investigar possíveis relações entre duas variáveis dentro do conjunto de dados em questão, e gráficos serão utilizados para fornecer maior clareza na análise.
+
+  - ##### ***H1 - Clientes que fizeram mais pedidos são os que mais receberam suas entregas no prazo e em sua totalidade***
+    Falsa - Entre as cinco empresas, duas têm uma concentração mais significativa de pedidos atrasados e incompletos.
+
+  - #####  ***H2 - A cidade que registrou menos solicitações (Surat) acabou enfrentando os maiores desafios em termos de cumprimento e abrangência de pedidos***
+    Falsa - A cidade de Surat foi a cidade que mais se destacou pela sua equilibrada pontualidade e cobertura de pedidos.
+
+  - #####  ***H3 - Os produtos mais demandados são os que mais sofrem atrasos na entrega***
+    Falsa - Os produtos mais e menos demandados apresentam números semelhantes de atrasos na entrega.
+
+  - ##### ***H4 - Nos primeiros 15 dias do mês, há um aumento na quantidade de pedidos feitos pelos clientes***
+    Falsa - Apesar da diferença não ser muito significativa, é evidente no gráfico que há um aumento nos pedidos feitos pelos clientes durante os últimos 15 dias do mês.
+
+
+  <div align="center">
+    <img src="https://imgur.com/IESYuXu.png" width="60%">
+  </div>  
+  <br>
