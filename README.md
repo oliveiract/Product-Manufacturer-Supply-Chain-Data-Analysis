@@ -187,20 +187,18 @@ Composta por 3 etapas (Análise Univariada, Bivariada e Multivariada), conseguim
 
   - Conforme mencionado anteriormente, as metas estabelecidas para pedidos entregues dentro do prazo são mais elevadas do que aquelas para pedidos que devem ser entregues integralmente. Observa-se uma concentração de pedidos com metas OTIF de aproximadamente 69%.
 
-- #### **Variáveis Categóricas**
+- #### **Variáveis Categóricas:**
 
   <div align="center">
     <img src="https://imgur.com/9j8arop.png" width="60%">
   </div>  
   <br>
 
-  - Ao analisar a variável "Customer Name", observa-se que 3 dos 15 clientes estão enfrentando problemas com seus pedidos, os quais chegaram fora do prazo, estavam incompletos, ou ambos os casos.
+  - Ao analisar a variável "Customer Name", nota-se que 5 dos 15 clientes são particularmente assíduos na solicitação de produtos da empresa Fast Produce.
 
-  - Quanto à variável "City", os resultados mostram pouca diferença em geral, porém é digno de nota que a cidade de Vadodara, com uma incidência de 18,78%, apresentou uma proporção significativa de produtos que chegaram fora do prazo, estavam incompletos, ou ambos os casos.
+  -  Quanto às variáveis "Product Name" e "City", os resultados mostram pouca diferença em geral.
 
-  - Na variável "Product Name", observa-se que não há uma grande disparidade em termos de entrega no prazo e integridade dos pedidos.
-
-  - Ao analisar a variável "Category", observamos uma maior concentração de pedidos de produtos lácteos (categoria "dairy") em comparação com bebidas e alimentos (beverage e food). Dos pedidos relacionados a produtos lácteos, que correspondem a 66,72% do total de pedidos, constatou-se que 34,81% não foram entregues dentro do prazo, ou não foram entregues na sua totalidade, ou ambos, enquanto 31,91% foram entregues conforme o esperado.
+  - Ao analisar a variável "Category", observamos uma maior concentração de pedidos de produtos lácteos (categoria "dairy").
 
 - ### ***Análise Bivariada***:
 
