@@ -208,7 +208,7 @@ Composta por 3 etapas (Análise Univariada, Bivariada e Multivariada), conseguim
     Falsa - Entre as cinco empresas, duas têm uma concentração mais significativa de pedidos atrasados e incompletos.
 
   - #####  ***H2 - A cidade que registrou menos solicitações (Surat) acabou enfrentando os maiores desafios em termos de cumprimento e abrangência de pedidos***
-    Falsa - A cidade de Surat foi a cidade que mais se destacou pela sua equilibrada pontualidade e cobertura de pedidos.
+    Falsa - Surat foi a cidade que enfrentou menos desafios em termos de pontualidade e cobertura de pedidos.
 
   - #####  ***H3 - Os produtos mais demandados são os que mais sofrem atrasos na entrega***
     Falsa - Os produtos mais e menos demandados apresentam números semelhantes de atrasos na entrega.
