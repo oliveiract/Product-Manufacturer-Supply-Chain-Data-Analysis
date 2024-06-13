@@ -174,10 +174,20 @@ Composta por 3 etapas (Análise Univariada, Bivariada e Multivariada), conseguim
   <br>
 
 
-- #### **Variáveis Numéricas:**
+- #### **Variáveis Numéricas e Categóricas:**
 
     <div align="center">
     <img src="https://imgur.com/l6Fo8Mj.png" width="60%">
+  </div>  
+  <br>
+
+  <div align="center">
+    <img src="https://imgur.com/9j8arop.png" width="60%">
+  </div>  
+  <br>
+
+   <div align="center">
+    <img src="https://imgur.com/PsryOE7.png" width="60%">
   </div>  
   <br>
 
@@ -187,18 +197,17 @@ Composta por 3 etapas (Análise Univariada, Bivariada e Multivariada), conseguim
 
   - Conforme mencionado anteriormente, as metas estabelecidas para pedidos entregues dentro do prazo são mais elevadas do que aquelas para pedidos que devem ser entregues integralmente. Observa-se uma concentração de pedidos com metas OTIF de aproximadamente 69%.
 
-- #### **Variáveis Categóricas:**
-
-  <div align="center">
-    <img src="https://imgur.com/9j8arop.png" width="60%">
-  </div>  
-  <br>
-
   - Ao analisar a variável "Customer Name", nota-se que 5 dos 15 clientes são particularmente assíduos na solicitação de produtos da empresa Fast Produce.
 
   -  Quanto às variáveis "Product Name" e "City", os resultados mostram pouca diferença em geral.
 
   - Ao analisar a variável "Category", observamos uma maior concentração de pedidos de produtos lácteos (categoria "dairy").
+
+  - Não há uma concentração de pedidos em algum dia específico da semana em relação aos dias em que foram solicitados, os dias acordados para entrega e os dias em que os pedidos foram efetivamente entregues.
+
+  - Em relação às semanas do mês, as semanas que mais diferem são a 10ª, que corresponde ao primeiro registro do conjunto de dados, e a 36ª, que corresponde ao último registro do conjunto de dados.
+
+
 
 - ### ***Análise Bivariada***:
 
