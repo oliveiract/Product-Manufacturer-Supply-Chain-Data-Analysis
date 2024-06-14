@@ -8,6 +8,11 @@
 
 FastProduce é uma empresa em ascensão no ramo de fabricação de bens de consumo de rápida movimentação (FMCG), com sede em Gujarat, Índia. No momento, a empresa está ativa em três cidades: Surat, Ahmedabad e Vadodara. No entanto, a FastProduce tem planos de expandir sua presença para outras importantes cidades metropolitanas de nível 1 nos próximos 2 anos.
 
+<div align="center">
+  <img src="https://imgur.com/t96D40E.png" width="90%">
+  </div>
+
+
 A FastProduce está enfrentando um desafio significativo: clientes importantes não renovaram seus contratos anuais devido a problemas no serviço. Especula-se que a entrega pontual e completa de produtos essenciais não tenha sido realizada, o que resultou em insatisfação dos clientes. Para resolver esse problema antes de expandir para novas cidades, a administração solicitou que a equipe de análise da cadeia de suprimentos monitore diariamente os níveis de serviço de entrega para todos os clientes. Isso possibilitará respostas rápidas e eficazes aos problemas identificados.
 
 Com a implementação de análises para rastrear os níveis de serviço, a FastProduce poderá aprimorar sua capacidade de avaliar o atendimento em relação às expectativas dos clientes e identificar prontamente áreas que requerem melhorias. 
