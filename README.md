@@ -224,9 +224,8 @@ Composta por 3 etapas (Análise Univariada, Bivariada e Multivariada), conseguim
   - #####  ***H2 - A cidade que registrou menos solicitações (Surat) acabou enfrentando os maiores desafios em termos de cumprimento e abrangência de pedidos***
     Falsa - Surat foi a cidade que enfrentou menos desafios em termos de pontualidade e cobertura de pedidos.
 
-
     <div align="center">
-      <img src="img/h1_h2.png" width="60%">
+      <img src="https://imgur.com/xA4lxWx.png" width="60%">
     </div>  
     <br>
 
@@ -237,9 +236,9 @@ Composta por 3 etapas (Análise Univariada, Bivariada e Multivariada), conseguim
     Falsa - Apesar da diferença não ser muito significativa, é evidente no gráfico que há um aumento nos pedidos feitos pelos clientes durante os últimos 15 dias do mês.
     
     <div align="center">
-      <img src="img/h3_h4.png" width="60%">
-    </div>  
-    <br>
+	   <img src="https://imgur.com/tXUSURU.png" width="60%">
+	  </div>  
+	  <br>
 
   - #####  ***H5 - Os pedidos de produtos lácteos são os que mais frequentemente chegam pontualmente e na sua totalidade.***
     Verdade - Os pedidos de lácteos destacam-se pela sua alta concentração em comparação com as outras categorias (bebidas e alimentos). Além disso, são os que mais frequentemente chegam pontualmente e em sua totalidade.
@@ -247,7 +246,8 @@ Composta por 3 etapas (Análise Univariada, Bivariada e Multivariada), conseguim
   - #####  ***H6 - Clientes que realizam pedidos durante a semana tendem a receber suas entregas de forma mais pontual e completa do que aqueles que fazem pedidos nos finais de semana.***
     Verdade - Os clientes que fazem pedidos durante a semana, que são os mais frequentes, geralmente recebem suas entregas de forma mais pontual e completa do que aqueles que fazem pedidos nos finais de semana.
 
-  <div align="center">
-    <img src="img/h5_h6.png" width="60%">
-  </div>  
-  <br>
+  
+	  <div align="center">
+      <img src="https://imgur.com/qBmYWFp.png" width="60%">
+	  </div>  
+	  <br
