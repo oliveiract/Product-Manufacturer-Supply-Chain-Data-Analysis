@@ -122,13 +122,15 @@ Os pedidos dos clientes serão avaliadas diariamente com base no nível de servi
 
 # 3. Planejamento da Solução
 
+- Realizar análise exploratória de dados para entender e explorar as características e padrões dos dados de forma inicial e investigativa
+
 - Criar um painel de acordo com os requisitos fornecidos pelas partes interessadas.
 
 - Apresentar a análise para o diretor de vendas.
 
 # 4. Processo
 
-## 4.1 Etapa 1 - Estatística Descritiva
+## 4.1. Etapa 1 - Estatística Descritiva
 
 Depois de carregar os conjuntos de dados, dedicamos tempo para compreender o significado de cada atributo e para limpar e transformar os dados conforme necessário. Exploramos os dados por meio da análise estatística descritiva, permitindo-nos examinar tanto as variáveis numéricas quanto as categóricas. Durante essa etapa, adquirimos conhecimento sobre a operação, bem como alguns insights de negócios.
 
@@ -163,7 +165,7 @@ Depois de carregar os conjuntos de dados, dedicamos tempo para compreender o sig
 
        As análises indicam que as empresas Chipter Stores, Viveks Stores e Expert Mart tiveram metas OTIF mais elevadas, todas com valores mínimos próximos a 70%. Em contrapartida, empresas como Lotus Mart, Coolblue e Acclaimed Stores tiveram metas inferiores, não atingindo sequer 65% da porcentagem da meta OTIF.
   
-## 4.2 Etapa 2 - Análise Exploratória de Dados (EDA)
+## 4.2. Etapa 2 - Análise Exploratória de Dados (EDA)
 
 Composta por 3 etapas (Análise Univariada, Bivariada e Multivariada), conseguimos obter insights sobre o conjunto de dados e as variáveis.
 
@@ -251,3 +253,8 @@ Composta por 3 etapas (Análise Univariada, Bivariada e Multivariada), conseguim
       <img src="https://imgur.com/qBmYWFp.png" width="60%">
 	  </div>  
 	  <br
+  
+  # 5. O Produto Final do Projeto
+  <p>Painel no Power BI com métricas e análises intuitivas, tornando mais fácil a compreensão para os usuários.</p>
+
+  # 6. Conclusão
