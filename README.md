@@ -230,7 +230,7 @@ Composta por 3 etapas (Análise Univariada, Bivariada e Multivariada), conseguim
     <br>
 
   - #####  ***H3 - Os produtos mais demandados são os que mais sofrem atrasos na entrega***
-    Falsa - Os produtos mais e menos demandados apresentam números semelhantes de atrasos na entrega.
+    Falsa - Os produtos mais e menos demandados apresentam um padrão similar de atrasos na entrega
 
   - ##### ***H4 - Nos primeiros 15 dias do mês, há um aumento na quantidade de pedidos feitos pelos clientes***
     Falsa - Apesar da diferença não ser muito significativa, é evidente no gráfico que há um aumento nos pedidos feitos pelos clientes durante os últimos 15 dias do mês.
